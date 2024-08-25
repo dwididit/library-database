@@ -3,7 +3,7 @@
 A PostgreSQL database project for an e-library platform. It includes SQL scripts for table creation, data insertion, and queries that streamline book access across multiple libraries.
 
 # Entity Relationship Diagram (ERD)
-![Logo](http://dwidi.dev/wp-content/uploads/2024/05/ERD-library-app.png)
+![Logo](https://dwidi.com/wp-content/uploads/2024/08/library-app.png)
 
 # Database Schema Overview
 
